@@ -1,0 +1,12 @@
+# extra configuration parameters to be set by heroku_san
+#
+# format:
+#
+# <heroku_san shorthand name>:
+#   <Heroku config:var name>: <Heroku config:var value>
+#
+production:
+  TEST_1: 'hello world'
+
+staging:
+  TEST_1: 'goodbye world'
