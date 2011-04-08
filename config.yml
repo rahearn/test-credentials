@@ -6,7 +6,7 @@
 #   <Heroku config:var name>: <Heroku config:var value>
 #
 production:
-  TEST_REMOTE: 'hello world'
+  TEST_REMOTE: 'hello_world'
 
 staging:
-  TEST_REMOTE: 'goodbye world'
+  TEST_REMOTE: 'goodbye_world'
